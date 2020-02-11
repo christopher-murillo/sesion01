@@ -14,7 +14,7 @@ public class Hola {
 		System.out.println("Cual es tu nombre?");
 		
 		String nombre = sc.nextLine();
-		System.out.println("Bienvenido "+ nombre);
+		System.out.println("Bienvenido mitocoder"+ nombre);
 		
 		sc.close();
 		
