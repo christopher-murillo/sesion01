@@ -7,7 +7,7 @@ public class Hola {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Imprimir mensaje
-		System.out.println("Bienvenido Mitocoder");
+		System.out.println("Bienvenido Mitocoder 2020");
 		
 		//Capturar valores de la consola
 		Scanner sc = new Scanner (System.in);
